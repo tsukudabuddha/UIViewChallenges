@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        self.view = ConcentricView(frame: view.frame)
+        self.view = PatternView(frame: view.frame)
     }
     
     override func didReceiveMemoryWarning() {
