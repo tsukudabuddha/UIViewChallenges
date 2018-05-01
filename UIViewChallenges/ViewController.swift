@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        self.view = RedView(frame: view.frame)
+        self.view = ChessBoardView(frame: view.frame)
     }
     
     override func didReceiveMemoryWarning() {
