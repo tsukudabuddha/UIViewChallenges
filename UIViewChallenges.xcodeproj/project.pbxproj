@@ -15,6 +15,7 @@
 		49395BC52099173A00BA9BC0 /* RedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49395BC42099173A00BA9BC0 /* RedView.swift */; };
 		49395BC72099189200BA9BC0 /* ChessBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49395BC62099189200BA9BC0 /* ChessBoardView.swift */; };
 		49395BC920991D3900BA9BC0 /* RainbowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49395BC820991D3900BA9BC0 /* RainbowView.swift */; };
+		49395BCB2099206000BA9BC0 /* ConcentricView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49395BCA2099206000BA9BC0 /* ConcentricView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		49395BC42099173A00BA9BC0 /* RedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedView.swift; sourceTree = "<group>"; };
 		49395BC62099189200BA9BC0 /* ChessBoardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessBoardView.swift; sourceTree = "<group>"; };
 		49395BC820991D3900BA9BC0 /* RainbowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainbowView.swift; sourceTree = "<group>"; };
+		49395BCA2099206000BA9BC0 /* ConcentricView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentricView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				49395BB2209913DF00BA9BC0 /* AppDelegate.swift */,
 				49395BB4209913DF00BA9BC0 /* ViewController.swift */,
+				49395BCA2099206000BA9BC0 /* ConcentricView.swift */,
 				49395BC42099173A00BA9BC0 /* RedView.swift */,
 				49395BC62099189200BA9BC0 /* ChessBoardView.swift */,
 				49395BC820991D3900BA9BC0 /* RainbowView.swift */,
@@ -146,6 +149,7 @@
 			files = (
 				49395BC72099189200BA9BC0 /* ChessBoardView.swift in Sources */,
 				49395BB5209913DF00BA9BC0 /* ViewController.swift in Sources */,
+				49395BCB2099206000BA9BC0 /* ConcentricView.swift in Sources */,
 				49395BC920991D3900BA9BC0 /* RainbowView.swift in Sources */,
 				49395BB3209913DF00BA9BC0 /* AppDelegate.swift in Sources */,
 				49395BC52099173A00BA9BC0 /* RedView.swift in Sources */,
