@@ -15,7 +15,7 @@ class ConcentricView: UIView {
         let insetValue: CGFloat = 20
         var count: CGFloat = 10.0
         var saturation: CGFloat = 1.0
-        let opacityDelta = opacity / count
+        let opacityDelta = saturation / count
         
         var prevFrame  = frame
         while count > 0 {
